@@ -15,8 +15,6 @@
 
 - 🤝 I’m looking for help with [better UI/UX for MyScheduler](https://myscheduler-c8f00.web.app/)
 
-- 👨‍💻 All of my projects are available at [jeel.is-a.dev](jeel.is-a.dev)
-
 - 💬 Ask me about **react, node, react native**
 
 - 📫 How to reach me twitter
