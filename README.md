@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeelpatel1612" alt="jeelpatel1612" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/__j_e_e_l__" target="blank"><img src="https://img.shields.io/twitter/follow/__j_e_e_l__?logo=twitter&style=for-the-badge" alt="__j_e_e_l__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_je_el_" target="blank"><img src="https://img.shields.io/twitter/follow/_je_el_?logo=twitter&style=for-the-badge" alt="_je_el_" /></a> </p>
 
 - 🔭 I’m currently working on **Meme Pedia - a wikipedia for memes**
 
@@ -25,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/__j_e_e_l__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="__j_e_e_l__" height="30" width="40" /></a>
-<a href="https://dev.to/__j_e_e_l__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="__j_e_e_l__" height="30" width="40" /></a>
-<a href="https://twitter.com/__j_e_e_l__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__j_e_e_l__" height="30" width="40" /></a>
+<a href="https://codepen.io/_je_el_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="_je_el_" height="30" width="40" /></a>
+<a href="https://dev.to/_je_el_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="_je_el_" height="30" width="40" /></a>
+<a href="https://twitter.com/_je_el_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_je_el_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeel" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10872163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10872163" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeek0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeek0" height="30" width="40" /></a>
