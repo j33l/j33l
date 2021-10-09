@@ -5,21 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j33l" alt="j33l" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_je_el_" target="blank"><img src="https://img.shields.io/twitter/follow/_je_el_?logo=twitter&style=for-the-badge" alt="_je_el_" /></a> </p>
-
 - 🔭 I’m currently working on **Meme Pedia - a wikipedia for memes**
 
 - 🌱 I’m currently learning **Machine Learning and Type Script**
 
 - 👯 I’m looking to collaborate on **Meme Pedia - a wikipedia for memes**
 
-- 🤝 I’m looking for help with [better UI/UX for MyScheduler](https://myscheduler-c8f00.web.app/)
+- 🤝 I’m looking for help with [better UI/UX for MyScheduler - a React.js webApp](https://myscheduler-c8f00.web.app/)
 
-- 💬 Ask me about **react, node, react native**
+- 💬 Ask me about **react, node, react native, JS, Py, C++**
 
-- 📫 How to reach me twitter
+- 📫 How to reach me <a href="https://twitter.com/_je_el_" target="blank"><img src="https://img.shields.io/twitter/follow/_je_el_?logo=twitter&style=for-the-badge" alt="_je_el_" /></a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jeel/](https://www.linkedin.com/in/jeel/)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/jeel/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@jeel" /></a>
 
 - ⚡ Fun fact **I am 1st party member of "Cosmic Simulation" community.**
 
