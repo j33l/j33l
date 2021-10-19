@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j33l" alt="j33l" /></a> </p>
 
-- 🔭 I’m currently working on **Meme Pedia - a wikipedia for memes**
+- 🔭 I’m currently working on <strike>Meme Pedia - a wikipedia for memes</strike> **Travel Manager App**
 
 - 🌱 I’m currently learning **Machine Learning and Type Script**
 
