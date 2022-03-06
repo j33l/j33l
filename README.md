@@ -53,10 +53,17 @@
 <br/>
 <br/>
 
-<a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=uchiha-suraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/j33l/github-readme-activity-graph"><img alt="Jeel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=j33l&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
+
+
+
+<!-- other graph -->
+
+<!-- [![Jeel's github activity graph](https://activity-graph.herokuapp.com/graph?username=j33l)](https://github.com/j33l/github-readme-activity-graph) -->
+
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j33l&show_icons=true&locale=en&layout=compact" alt="j33l" /></p> -->
